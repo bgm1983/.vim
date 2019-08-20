@@ -124,6 +124,8 @@ hi MatchParen cterm=bold ctermbg=0 ctermfg=201
 
 "highlight cursor
 highlight Cursor guifg=red guibg=black
+"highlight visual selection
+hi Visual     cterm=bold ctermfg=15  ctermbg=13  
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 "
